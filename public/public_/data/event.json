@@ -1,0 +1,30 @@
+[
+    {
+        "id":"0",
+        "name_event":"Seminar Nasional (SEMNAS)",
+        "link": "semnas",
+        "pic": "/storage/events/semnas.png",
+        "des": "Umum"
+    },
+    {
+        "id":"1",
+        "name_event":"Mobile UI UX Competition (MUC)",
+        "link": "muc",
+        "pic": "https://ifest.uajy.ac.id/dash/public/images/cp.png",
+        "des": "Universitas"
+    },
+    {
+        "id":"2",
+        "name_event":"Web Design Competition (WDC)",
+        "link": "wdc",
+        "pic": "https://ifest.uajy.ac.id/dash/public/images/wdc.png",
+        "des": "Universitas"
+    },
+    {
+        "id":"3",
+        "name_event":"Innovative Informatics Contest (I2C)",
+        "link": "i2c",
+        "pic": "https://ifest.uajy.ac.id/dash/public/images/i2c.png",
+        "des": "SMA/SMK Sederajat"
+    }
+]
